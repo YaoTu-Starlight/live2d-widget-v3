@@ -1,8 +1,8 @@
 
 # <center> Live2d-Widget-v3 </center>
 
-> 修改自 [letere-gzj/live2d-widget-v3](https://github.com/letere-gzj/live2d-widget-v3)
-> [dogxii/live2d-widget-v3](https://github.com/dogxii/live2d-widget-v3) 项目
+> 修改自 [letere-gzj/live2d-widget-v3](https://github.com/letere-gzj/live2d-widget-v3) ;
+>  [dogxii/live2d-widget-v3](https://github.com/dogxii/live2d-widget-v3) 项目
 
 ## 1 介绍
 
