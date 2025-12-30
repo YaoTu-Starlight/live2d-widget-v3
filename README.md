@@ -1,21 +1,13 @@
 
 # <center> Live2d-Widget-v3 </center>
 
-> 修改自 [letere-gzj/live2d-widget-v3](https://github.com/letere-gzj/live2d-widget-v3) 项目
+> 修改自 [letere-gzj/live2d-widget-v3](https://github.com/letere-gzj/live2d-widget-v3)
+> [dogxii/live2d-widget-v3](https://github.com/dogxii/live2d-widget-v3) 项目
 
 ## 1 介绍
 
 - **演示地址**：[DEMO](https://letere-gzj.github.io/live2d-widget-v3/)
-- **文章教程**：[在你的网站中加入 live2d 自定义看板娘](https://blog.dogxi.me/diy-website-live2d)
-
-快速使用：
-
-jsdelivr CDN:
-
-```
-https://fastly.jsdelivr.net/gh/dogxii/live2d-widget-v3@main/
-```
-
+- **文章教程**：[在你的网站中加入 live2d 自定义看板娘]()
 
 > [!NOTE]
 >
@@ -37,7 +29,7 @@ https://fastly.jsdelivr.net/gh/dogxii/live2d-widget-v3@main/
 
 ```html
 <script>
-  const cdnPath = 'https://cdn.jsdelivr.net/gh/dogxii/live2d-widget-v3@main/'
+  const cdnPath = '/'  /*资源根目录*/
   const config = {
     // 资源路径
     path: {
@@ -244,3 +236,8 @@ https://fastly.jsdelivr.net/gh/dogxii/live2d-widget-v3@main/
 - [笔记：live2d4.0 sdk 博客园网页动画](https://blog.csdn.net/weixin_44128558/article/details/104792345)
 - [live2d（Web SDK 4.x）Web 看板娘进阶](https://blog.csdn.net/qq_37735413/article/details/119413744)
 - [live2d web 笔记之一：官方 SDK 尝试](https://blog.csdn.net/weixin_42578046/article/details/123509508)
+
+---
+
+## 5 修改记录
+- 此仓库只修复模型移动后遮挡点击问题
